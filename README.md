@@ -18,7 +18,7 @@ Each deliverable is crafted in a clean, colorful PDF or Excel template, reflecti
 
 ---
 
-## 📁 Repository Structure  
+## Repository Structure  
 
 RootCause_ProcessOptimization_Sonal/
 ├── 1_Governance/
@@ -50,7 +50,7 @@ RootCause_ProcessOptimization_Sonal/
 
 ---
 
-## 🔍 Detailed Deliverables  
+##  Detailed Deliverables  
 
 ### 1. Governance  
 - **Project Charter**: Captures the business problem, project goals (SMART), success metrics (KPIs), scope boundaries, risks & assumptions.  
@@ -108,7 +108,7 @@ RootCause_ProcessOptimization_Sonal/
    cd RootCause_ProcessOptimization_Sonal
 
 Connect with Me
-LinkedIn: 
+LinkedIn: www.linkedin.com/in/sonal-mk
 
 Portfolio: https://tinyurl.com/3mdmbay9
    
