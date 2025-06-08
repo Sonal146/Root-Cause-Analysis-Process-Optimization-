@@ -6,6 +6,9 @@
 
 ##  Project Overview  
 This portfolio case study demonstrates my end-to-end Business Analysis skills by tackling persistent **Order Fulfillment Delays** at a global e-commerce fulfillment center. Over five weeks, I:
+![Image](https://github.com/user-attachments/assets/1c516ae9-fb80-4c31-b354-811508bd8aa2)
+
+
 1. **Defined the problem** – documented delay metrics and stakeholder pain points  
 2. **Conducted root-cause workshops** – facilitated “5 Whys” and fishbone analyses in Lucidchart  
 3. **Mapped processes** – created detailed “As-Is” and “To-Be” BPMN flow diagrams  
